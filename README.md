@@ -12,4 +12,4 @@ Game where you control a paddle with the arrow keys to bounce a ball up to break
 - Keep score
 - Add rules button with slider
 
-[Live Demo](https://rawcdn.githack.com/msz-coder/breakout-game/842f6c049ae6d3782d6ebb5fc4addae451d063cc/index.html)
+[Live Demo](https://msz-coder.github.io/breakout-game/)
